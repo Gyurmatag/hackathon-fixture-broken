@@ -1,0 +1,10 @@
+{
+  "name": "hackathon-fixture-broken",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "hk-fixture-package-that-does-not-exist": "1.0.0"
+  }
+}
